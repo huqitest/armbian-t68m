@@ -16,10 +16,6 @@ patch/kernel/archive/rk35xx-5.10/board-add-t68m-makefile.patch
 patch/kernel/archive/rk35xx-5.10/board-dts-add-lyt-t68m.patch
 ```
 
-## 修复软链
-``` bash
-patch/kernel/rk35xx-legacy -> patch/kernel/archive/rk35xx-5.10
-```
 
 ##设备树文件
 arch/arm64/boot/dts/rockchip/rk3568-lyt-t68m.dts
