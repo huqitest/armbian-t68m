@@ -3,9 +3,10 @@
 ``` bash
   https://github.com/coolsnowwolf/lede
   https://github.com/amazingfate/armbian-h68k-images
-  # 感谢LEAN提供支持协助,感谢68k的armbian git库
-  # 目前所有可见接口均可使用,hdmi,usb2.0和usb3.0,4个网口等都工作正常
 ```
+## 感谢LEAN提供支持协助,感谢68k的armbian git库
+## 目前所有可见接口均可使用,hdmi,usb2.0和usb3.0,4个网口等都工作正常
+
 ## 关于2个1Gb网口mac地址不能保存的问题
 ### 由于厂家那边没有用RKDevInfoWriteTool写码工具对设备的mac地址和sn进行写码，需要使用的话写入2个千兆网口的mac地址即可
 ### 自己手动在系统层把mac地址写固定也是可以的
